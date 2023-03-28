@@ -1,2 +1,2 @@
 # practica-git
-Proyecto de prueba
+Proyecto de prueba con Git
